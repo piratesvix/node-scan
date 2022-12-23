@@ -2,8 +2,6 @@
 
 Static security code scanner (SAST) for Node.js applications powered by [libsast](https://github.com/ajinabraham/libsast) and [semgrep](https://github.com/returntocorp/semgrep).
 
-Made with ![Love](https://cloud.githubusercontent.com/assets/4301109/16754758/82e3a63c-4813-11e6-9430-6015d98aeaab.png) in India  [![Tweet](https://img.shields.io/twitter/url?url=https://github.com/ajinabraham/nodejsscan)](https://twitter.com/intent/tweet/?text=nodejsscan,%20a%20static%20security%20code%20scanner%20for%20node.js%20applications%20by%20%40ajinabraham%20%40OpenSecurity_IN&url=https://github.com/ajinabraham/nodejsscan)
-
 [![platform](https://img.shields.io/badge/platform-osx%2Flinux-green.svg)](https://github.com/ajinabraham/nodejsscan)
 [![License](https://img.shields.io/:license-gpl3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
@@ -13,9 +11,6 @@ Made with ![Love](https://cloud.githubusercontent.com/assets/4301109/16754758/82
 [![Build](https://github.com/ajinabraham/nodejsscan/workflows/Test/badge.svg)](https://github.com/ajinabraham/nodejsscan/actions?query=workflow%3ATest)
 
 ### Support nodejsscan
-
-* **Donate via Paypal:** [![Donate via Paypal](https://user-images.githubusercontent.com/4301109/76471686-c43b0500-63c9-11ea-8225-2a305efb3d87.gif)](https://paypal.me/ajinabraham)
-* **Sponsor the Project:** [![Github Sponsors](https://user-images.githubusercontent.com/4301109/95517226-9e410780-098e-11eb-9ef5-7b8c7561d725.png)](https://github.com/sponsors/ajinabraham)
 
 ### e-Learning Courses & Certifications
 [![OpSecX Video Course](https://user-images.githubusercontent.com/4301109/82597198-99fa8600-9b76-11ea-8243-c604bc7b06b1.png)](https://opsecx.com/index.php/product/node-js-security-pentesting-and-exploitation/?uid=github) [OpSecX Node.js Security: Pentesting and Exploitation - NJS](https://opsecx.com/index.php/product/node-js-security-pentesting-and-exploitation/?uid=github)
